@@ -1,0 +1,3 @@
+<template>
+  COLUMN Panel
+</template>
